@@ -45,6 +45,5 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "keywords": [],
-  "description": "Issue: https://github.com/vuejs/vue-devtools/issues/917"
+  "keywords": []
 }
