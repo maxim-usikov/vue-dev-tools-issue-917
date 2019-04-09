@@ -1,4 +1,4 @@
-# vue-dev-tools-issue-917
+# vue-devtools-issue-917
 
 Routing tab does not display a list of routes added via `addRoutes`
 
