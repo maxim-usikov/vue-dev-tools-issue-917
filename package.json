@@ -1,5 +1,6 @@
 {
-  "name": "routing-tab-does-not-display-a-list-of-routes-added-via-addroutes",
+  "name": "vue-devtools-issue-917",
+  "description": "Routing tab does not display a list of routes added via `addRoutes`",
   "version": "0.1.0",
   "private": true,
   "scripts": {
